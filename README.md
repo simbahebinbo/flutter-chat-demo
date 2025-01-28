@@ -23,3 +23,9 @@
 * Aug, 27th, 2022 - Upgrade dependencies and fix to working fine with Flutter 3
 * Jun, 4th, 2021 - Migrating to Flutter 2 and using Dart sound null safety
 * Oct, 2nd, 2021 - Apply provider & restructure
+
+
+## 支持平台
+项目使用了 firebase 的云服务，所以:
+* 支持 ios、android、web
+* 不支持 macos、windows、linux
